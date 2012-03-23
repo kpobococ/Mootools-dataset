@@ -147,7 +147,7 @@ use the following method:
 You can later use the default `setOptions` method to set the options to your
 plugin.
 
-** Extending plugins with DatasetOptions **
+**Extending plugins with DatasetOptions**
 
 If you want to extend an existing plugin, which uses `DatasetOptions`, and want
 to provide additional options, you have to do something like this:
