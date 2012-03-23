@@ -1,0 +1,11 @@
+name: Dataset
+authors: [Garrick Cheung, Anton Suprun]
+category: Native
+tags: [dataset, element, elements, data, utilities]
+demo: http://kpobococ.github.com/Dataset/
+current: 1.0.0
+description: "adds support of HTML5 data attributes"
+web: "[mootools.net/forge/p/Dataset](http://mootools.net/forge/p/Dataset)"
+license: "MIT License"
+sources:
+  - "Source/Dataset.js"
