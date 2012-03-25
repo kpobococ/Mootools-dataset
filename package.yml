@@ -2,7 +2,7 @@ name: Dataset
 author: kpobococ
 category: Native
 tags: [dataset, element, elements, data, utilities]
-demo: http://jsfiddle.net/GeQhk/
+demo: http://jsfiddle.net/TKgru/
 current: 1.0.0
 description: "adds support of HTML5 data attributes"
 web: "[mootools.net/forge/p/Dataset](http://mootools.net/forge/p/Dataset)"
